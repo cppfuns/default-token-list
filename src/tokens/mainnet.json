@@ -4,7 +4,7 @@
     "address": "0x73DcdfeBe2b1Db8FAe6f0A5AA0f35C3BaDa6811A",
     "symbol": "WETH",
     "decimals": 18,
-    "chainId": 65525,
+    "chainId": 65524,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
@@ -12,7 +12,7 @@
     "address": "0x6e87Bd7B1DF5BB3E6E3076358C4977141bC9d5dD",
     "symbol": "DAI",
     "decimals": 18,
-    "chainId": 65525,
+    "chainId": 65524,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
   },
   {
@@ -20,7 +20,7 @@
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "symbol": "UNI",
     "decimals": 18,
-    "chainId": 3,
+    "chainId": 65524,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   }
 ]
